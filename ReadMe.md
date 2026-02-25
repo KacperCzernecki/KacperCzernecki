@@ -3,7 +3,9 @@
 
 ### 📝 Task Manager App
 [![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://todo-app-mu-ivory-14.vercel.app/)
+
 [![Code](https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/KacperCzernecki/todo-app)
+
 Built with React, JavaScript, and CSS.
 
 
