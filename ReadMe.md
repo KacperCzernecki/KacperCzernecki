@@ -10,7 +10,7 @@ Built with React, JavaScript, and CSS.
 
 
 # 💫 About Me:
-🌱 I’m currently learning TypeScript, NextJs and Tailwind<br>😍 WSB Merito Chorzów Student<br>💫 Aspiring frontend dev
+🌱 I’m currently learning TypeScript, NextJs and Tailwind<br>😍 WSB Merito Chorzów Student<br>💫 Frontend Developer (Full-stack in the future)
 
 
 ## 🌐 Socials:
